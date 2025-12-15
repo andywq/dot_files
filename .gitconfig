@@ -1,0 +1,19 @@
+[user]
+	name = 
+	email = 
+[core]
+	editor = vi
+	pager = less -+$LESS -FRX
+[merge]
+	tool = vimdiff
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	up = pull
+[color]
+	diff = auto
+	status = auto
+	interactive = auto
+	ui = true
